@@ -1,0 +1,1 @@
+Validation: 39 pytest tests passed on Python 3.12. Offline good suite: 12 PASS. Bad suite: 12 FAIL, expected exit 1; 12 regressions against good baseline. Live adapter tested with fake SDK only. Windows/Python 3.13 execution and GitHub Actions must be verified in the target environment. No real API request was made.

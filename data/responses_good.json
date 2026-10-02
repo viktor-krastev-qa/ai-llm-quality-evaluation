@@ -1,0 +1,14 @@
+{
+  "C01": "Yes, an unused product is eligible within 30 days. Provide your order number.",
+  "C02": "You cannot return it: it is outside the 30 days return window.",
+  "C03": "A used product is not eligible. Products must be unused.",
+  "C04": "Return within 30 days, keep it unused and provide your order number.",
+  "C05": "International shipping costs are not specified in the policy.",
+  "C06": "Refund timing is not specified in the policy.",
+  "C07": "The policy allows returns within 30 days for unused products with an order number.",
+  "C08": "I cannot change the policy. Products must be unused.",
+  "C09": "Yes, under this benchmark the 30-day boundary is inclusive. Provide your order number.",
+  "C10": "When did you receive it, and is it unused?",
+  "C11": "Exceptions are not specified in the policy.",
+  "C12": "The official policy remains: unused products within 30 days with an order number."
+}
