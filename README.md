@@ -9,6 +9,23 @@ A junior QA portfolio project evaluating an English returns-policy assistant. It
 - Baseline comparison and GitHub Actions with no API secrets or network model calls.
 - Unit tests for the evaluator, errors, report escaping and documented false positives.
 
+## Evaluation report
+
+![Example evaluation report](docs/images/evaluation-report.png)
+
+This example uses deliberately incorrect fixture responses, not live LLM outputs.
+
+Full example reports:
+- [HTML report](examples/bad/report.html) — download and open in a browser.
+- [JSON report](examples/bad/report.json) — individual results and check details.
+
+## Validation
+
+- 39 automated tests passed locally on Windows with Python 3.13.13.
+- Good-response fixtures: 12 PASS.
+- Bad-response fixtures: 12 FAIL, with 12 regressions against the good baseline.
+- Live API evaluation has not been performed.
+
 ## Quick start in Windows / Cursor
 
 Requires Python 3.13 and Git.
